@@ -1,0 +1,6 @@
+cashregisterr.png
+size:1447,1187
+filter:Linear,Linear
+pma:true
+cashregisterr
+bounds:2,2,1443,1183

@@ -1,0 +1,13 @@
+platealien.png
+size:2008,2008
+filter:Linear,Linear
+pma:true
+scale:0.5
+plate
+bounds:1005,344,715,659
+s10
+bounds:2,1005,1001,1001
+s11
+bounds:2,2,1001,1001
+s9
+bounds:1005,1005,1001,1001

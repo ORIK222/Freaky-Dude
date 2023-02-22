@@ -1,0 +1,11 @@
+board_paint.png
+size:862,221
+filter:Linear,Linear
+pma:true
+scale:0.3
+bangle
+bounds:582,42,177,278
+rotate:90
+table
+bounds:2,2,217,578
+rotate:90

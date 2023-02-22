@@ -1,0 +1,17 @@
+dummy 2.png
+size:2048,1024
+filter:Linear,Linear
+pma:true
+scale:0.5
+1
+bounds:1757,479,290,215
+rotate:90
+2
+bounds:698,387,382,1057
+rotate:90
+3
+bounds:2,149,620,694
+rotate:90
+dummy
+bounds:698,2,383,1038
+rotate:90

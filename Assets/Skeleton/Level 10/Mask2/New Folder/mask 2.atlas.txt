@@ -1,0 +1,21 @@
+mask 2.png
+size:512,1024
+filter:Linear,Linear
+pma:true
+scale:0.5
+0
+bounds:105,613,169,100
+eyeL
+bounds:66,676,37,37
+eyeR
+bounds:66,676,37,37
+eyelidL
+bounds:22,681,42,32
+eyelidR
+bounds:22,681,42,32
+mask
+bounds:2,2,328,609
+pupilL
+bounds:2,695,18,18
+pupilR
+bounds:2,695,18,18

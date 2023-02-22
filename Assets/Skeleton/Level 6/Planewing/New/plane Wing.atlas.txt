@@ -1,0 +1,12 @@
+plane Wing.png
+size:4096,512
+filter:Linear,Linear
+pma:true
+scale:0.5
+fire
+bounds:2,179,130,185
+rotate:90
+wing1
+bounds:757,2,1774,307
+wing2
+bounds:189,65,566,244

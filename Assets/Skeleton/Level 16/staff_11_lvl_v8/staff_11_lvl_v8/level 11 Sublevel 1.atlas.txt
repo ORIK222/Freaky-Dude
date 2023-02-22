@@ -1,0 +1,14 @@
+level 11 Sublevel 1.png
+size:3346,1527
+filter:Linear,Linear
+pma:true
+container
+bounds:2,371,2797,1154
+container 1
+bounds:2,2,367,1104
+rotate:90
+container 2
+bounds:1108,2,367,1103
+rotate:90
+crane
+bounds:2801,6,543,1519

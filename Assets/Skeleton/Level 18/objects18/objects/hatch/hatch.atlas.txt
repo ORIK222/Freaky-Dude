@@ -1,0 +1,9 @@
+hatch.png
+size:1135,359
+filter:Linear,Linear
+pma:true
+scale:0.3
+cover
+bounds:588,22,545,335
+hatch
+bounds:2,2,584,355

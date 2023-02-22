@@ -1,0 +1,7 @@
+guns.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+scale:0.5
+4
+bounds:2,2,978,588

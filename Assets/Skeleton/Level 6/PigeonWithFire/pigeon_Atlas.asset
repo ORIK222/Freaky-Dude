@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: pigeon_Atlas
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: 13fdb1911178bcb47a6dc256f7bff8a2, type: 3}
+  materials:
+  - {fileID: 2100000, guid: 3c94b6b93bb3d784a95c6aaa82f2f0e1, type: 2}
+  - {fileID: 2100000, guid: c2156435c3f3bad4bbae54784f69defe, type: 2}
+  - {fileID: 2100000, guid: 3181a78f072e3194b9e117033753064b, type: 2}
+  - {fileID: 2100000, guid: 090f6f6fe7eb1f94898641037c76ea76, type: 2}

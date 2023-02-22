@@ -1,0 +1,9 @@
+pickaxe.png
+size:1487,1586
+filter:Linear,Linear
+pma:true
+1
+bounds:2,2,761,1413
+rotate:90
+2
+bounds:2,765,1483,819

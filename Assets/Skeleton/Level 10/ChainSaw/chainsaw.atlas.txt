@@ -1,0 +1,9 @@
+chainsaw.png
+size:1974,1074
+filter:Linear,Linear
+pma:true
+1
+bounds:2,22,1050,1108
+rotate:90
+2
+bounds:1112,2,860,1070

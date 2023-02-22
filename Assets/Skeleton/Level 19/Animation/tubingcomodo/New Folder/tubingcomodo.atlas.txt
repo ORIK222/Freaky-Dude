@@ -1,0 +1,12 @@
+tubingcomodo.png
+size:4096,1024
+filter:Linear,Linear
+pma:true
+scale:0.5
+1
+bounds:2666,744,191,225
+2
+bounds:2,2,967,2662
+rotate:90
+3
+bounds:2666,369,97,373

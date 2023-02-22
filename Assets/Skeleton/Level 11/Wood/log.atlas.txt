@@ -1,0 +1,6 @@
+log.png
+size:660,480
+filter:Linear,Linear
+pma:true
+log
+bounds:2,2,656,476

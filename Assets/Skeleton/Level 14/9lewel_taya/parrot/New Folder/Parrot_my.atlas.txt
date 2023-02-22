@@ -1,0 +1,31 @@
+Parrot_my.png
+size:8192,4096
+filter:Linear,Linear
+pma:true
+scale:0.5
+body
+bounds:2091,1272,1402,2697
+head
+bounds:3495,1524,2445,2116
+offsets:0,0,2454,2116
+rotate:90
+lulka
+bounds:2091,115,1155,772
+rotate:90
+pup
+bounds:2,2,157,178
+saber
+bounds:2,573,2087,3396
+smoke
+bounds:2,182,389,797
+offsets:0,0,389,824
+rotate:90
+tail
+bounds:2865,133,1975,1137
+wing 1
+bounds:4842,10,1512,2117
+rotate:90
+wing 2
+bounds:5613,2088,1881,1816
+offsets:18,0,1899,1816
+rotate:90

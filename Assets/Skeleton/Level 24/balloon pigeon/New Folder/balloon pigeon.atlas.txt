@@ -1,0 +1,9 @@
+balloon pigeon.png
+size:2048,2048
+filter:Linear,Linear
+pma:true
+scale:0.5
+1
+bounds:938,196,90,1062
+2
+bounds:2,2,934,1256

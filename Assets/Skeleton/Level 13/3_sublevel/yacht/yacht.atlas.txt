@@ -1,0 +1,7 @@
+yacht.png
+size:1038,332
+filter:Linear,Linear
+pma:true
+scale:0.5
+Yacht
+bounds:2,2,1034,328

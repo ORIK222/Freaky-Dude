@@ -1,0 +1,7 @@
+fish.png
+size:1245,1759
+filter:Linear,Linear
+pma:true
+scale:0.5
+fish
+bounds:2,2,1241,1755

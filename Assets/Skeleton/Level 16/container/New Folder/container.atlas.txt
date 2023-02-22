@@ -1,0 +1,15 @@
+container.png
+size:2048,1024
+filter:Linear,Linear
+pma:true
+scale:0.5
+container
+bounds:2,279,1402,580
+crane
+bounds:2,2,275,763
+rotate:90
+door1
+bounds:1406,304,187,555
+door2
+bounds:767,90,187,555
+rotate:90

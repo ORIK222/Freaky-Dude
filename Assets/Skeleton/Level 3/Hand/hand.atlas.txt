@@ -1,0 +1,15 @@
+hand.png
+size:535,636
+filter:Linear,Linear
+pma:true
+scale:0.5
+hand1
+bounds:2,238,396,296
+rotate:90
+hand2
+bounds:308,16,354,186
+rotate:90
+hand3
+bounds:2,2,304,234
+hand4
+bounds:300,372,233,262

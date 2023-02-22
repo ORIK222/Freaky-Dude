@@ -1,0 +1,7 @@
+level 10 Sublevel 1.png
+size:2161,292
+filter:Linear,Linear
+pma:true
+scale:0.4
+background 2
+bounds:2,2,2157,288

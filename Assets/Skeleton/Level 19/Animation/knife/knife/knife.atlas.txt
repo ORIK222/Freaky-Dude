@@ -1,0 +1,10 @@
+knife.png
+size:721,406
+filter:Linear,Linear
+pma:true
+1
+bounds:454,133,271,265
+rotate:90
+2
+bounds:2,2,402,450
+rotate:90

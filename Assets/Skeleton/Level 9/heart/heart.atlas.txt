@@ -1,0 +1,7 @@
+heart.png
+size:558,438
+filter:Linear,Linear
+pma:true
+scale:0.3
+1
+bounds:2,2,554,434

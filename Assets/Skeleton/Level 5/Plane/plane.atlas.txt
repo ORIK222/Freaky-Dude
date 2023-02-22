@@ -1,0 +1,6 @@
+plane.png
+size:2105,1018
+filter:Linear,Linear
+pma:true
+plane
+bounds:2,2,2101,1014

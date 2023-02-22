@@ -1,0 +1,11 @@
+police car.png
+size:4096,1024
+filter:Linear,Linear
+pma:true
+scale:0.5
+car
+bounds:2,2,1908,775
+w1
+bounds:1912,433,344,344
+w2
+bounds:1912,87,344,344

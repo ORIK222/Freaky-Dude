@@ -1,0 +1,7 @@
+Mermaid.png
+size:403,257
+filter:Linear,Linear
+pma:true
+scale:0.4
+Oar
+bounds:2,2,399,253

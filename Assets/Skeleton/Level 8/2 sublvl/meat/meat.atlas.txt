@@ -1,0 +1,7 @@
+meat.png
+size:339,176
+filter:Linear,Linear
+pma:true
+scale:0.3
+1
+bounds:2,2,335,172

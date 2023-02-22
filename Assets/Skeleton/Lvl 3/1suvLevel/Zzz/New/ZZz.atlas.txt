@@ -1,0 +1,13 @@
+ZZz.png
+size:1024,256
+filter:Linear,Linear
+pma:true
+scale:0.5
+1
+bounds:271,2,246,262
+rotate:90
+2
+bounds:2,3,245,267
+rotate:90
+3
+bounds:535,28,205,220

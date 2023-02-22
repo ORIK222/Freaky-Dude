@@ -1,0 +1,6 @@
+kiss.png
+size:1562,988
+filter:Linear,Linear
+pma:true
+lips
+bounds:2,2,1558,984

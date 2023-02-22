@@ -1,0 +1,6 @@
+phone.png
+size:552,1801
+filter:Linear,Linear
+pma:true
+1
+bounds:2,2,548,1797

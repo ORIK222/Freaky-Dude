@@ -1,0 +1,6 @@
+scrap.png
+size:806,490
+filter:Linear,Linear
+pma:true
+scrap
+bounds:2,2,802,486

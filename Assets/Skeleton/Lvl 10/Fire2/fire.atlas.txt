@@ -1,0 +1,10 @@
+fire.png
+size:1120,1004
+filter:Linear,Linear
+pma:true
+1
+bounds:2,2,662,1000
+2
+bounds:666,269,452,733
+3
+bounds:666,29,149,238

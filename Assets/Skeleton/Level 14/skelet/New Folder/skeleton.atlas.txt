@@ -1,0 +1,46 @@
+skeleton.png
+size:512,512
+filter:Linear,Linear
+pma:true
+scale:0.5
+Barrel
+bounds:2,236,233,274
+Left hand  3
+bounds:338,61,89,80
+Left hand 1
+bounds:435,133,137,44
+rotate:90
+Left hand 2
+bounds:431,363,147,54
+rotate:90
+Right  foot  2
+bounds:270,32,66,118
+Right  foot  3
+bounds:429,59,72,49
+rotate:90
+Right  foot 1
+bounds:134,120,114,109
+rotate:90
+Right hand 1
+bounds:348,143,126,85
+rotate:90
+Right hand 2
+bounds:2,24,97,128
+rotate:90
+Right hand 3
+bounds:431,272,59,89
+Rom
+bounds:196,10,108,72
+rotate:90
+head
+bounds:2,123,130,111
+jaws
+bounds:338,12,86,47
+left foot 1
+bounds:245,152,101,117
+left foot 2
+bounds:132,2,62,116
+left foot 3
+bounds:426,10,71,47
+torso
+bounds:237,271,192,239

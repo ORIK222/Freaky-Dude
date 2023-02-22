@@ -1,0 +1,7 @@
+bag.png
+size:678,379
+filter:Linear,Linear
+pma:true
+scale:0.5
+1
+bounds:2,2,674,375

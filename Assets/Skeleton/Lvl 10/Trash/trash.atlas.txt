@@ -1,0 +1,6 @@
+trash.png
+size:668,1374
+filter:Linear,Linear
+pma:true
+trash
+bounds:2,2,664,1370

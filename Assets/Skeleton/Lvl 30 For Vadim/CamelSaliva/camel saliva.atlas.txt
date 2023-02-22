@@ -1,0 +1,6 @@
+camel saliva.png
+size:503,1324
+filter:Linear,Linear
+pma:true
+saliva
+bounds:2,2,499,1320

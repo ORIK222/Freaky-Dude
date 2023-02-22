@@ -1,0 +1,6 @@
+money.png
+size:1320,448
+filter:Linear,Linear
+pma:true
+money
+bounds:2,2,1316,444

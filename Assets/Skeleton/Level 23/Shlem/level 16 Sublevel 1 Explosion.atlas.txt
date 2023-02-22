@@ -1,0 +1,7 @@
+level 16 Sublevel 1 Explosion.png
+size:591,722
+filter:Linear,Linear
+pma:true
+scale:0.5
+mask
+bounds:2,2,587,718

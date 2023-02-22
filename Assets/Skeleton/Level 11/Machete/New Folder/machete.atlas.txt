@@ -1,0 +1,7 @@
+machete.png
+size:128,512
+filter:Linear,Linear
+pma:true
+scale:0.5
+machete
+bounds:2,2,84,394

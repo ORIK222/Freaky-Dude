@@ -1,0 +1,9 @@
+she.png
+size:2048,512
+filter:Linear,Linear
+pma:true
+scale:0.5
+Слой 4
+bounds:2,2,420,1299
+offsets:317,47,1025,1367
+rotate:90

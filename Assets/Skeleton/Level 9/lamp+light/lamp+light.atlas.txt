@@ -1,0 +1,10 @@
+lamp+light.png
+size:770,591
+filter:Linear,Linear
+pma:true
+scale:0.3
+lamp
+bounds:2,33,487,556
+light
+bounds:491,2,587,277
+rotate:90

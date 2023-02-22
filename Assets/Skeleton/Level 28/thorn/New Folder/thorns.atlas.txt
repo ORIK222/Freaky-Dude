@@ -1,0 +1,7 @@
+thorns.png
+size:512,256
+filter:Linear,Linear
+pma:true
+scale:0.5
+thorns
+bounds:2,2,483,244

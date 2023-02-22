@@ -1,0 +1,9 @@
+boat.png
+size:2048,512
+filter:Linear,Linear
+pma:true
+scale:0.5
+boat1
+bounds:2,113,1420,329
+boat2
+bounds:2,2,829,109

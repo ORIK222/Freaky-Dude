@@ -1,0 +1,13 @@
+bat.png
+size:3209,778
+filter:Linear,Linear
+pma:true
+body
+bounds:2710,91,314,685
+brow
+bounds:3026,576,200,181
+rotate:90
+wingL
+bounds:2,2,1352,774
+wingR
+bounds:1356,2,1352,774

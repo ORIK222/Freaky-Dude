@@ -1,0 +1,7 @@
+pig.png
+size:67,169
+filter:Linear,Linear
+pma:true
+scale:0.5
+1
+bounds:2,2,63,165

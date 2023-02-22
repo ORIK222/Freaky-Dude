@@ -1,0 +1,8 @@
+stone.png
+size:2674,798
+filter:Linear,Linear
+pma:true
+stone
+bounds:2,400,2670,396
+stonewater
+bounds:2,2,2670,396

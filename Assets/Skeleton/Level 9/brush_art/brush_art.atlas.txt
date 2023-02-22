@@ -1,0 +1,7 @@
+brush_art.png
+size:429,517
+filter:Linear,Linear
+pma:true
+scale:0.3
+brush
+bounds:2,2,425,513

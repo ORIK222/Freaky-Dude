@@ -1,0 +1,17 @@
+seller.png
+size:2048,1024
+filter:Linear,Linear
+pma:true
+scale:0.5
+body
+bounds:2,194,445,680
+rotate:90
+browL
+bounds:2,935,186,76
+eyeRclose
+bounds:684,2,597,904
+rotate:90
+hands
+bounds:1118,601,485,410
+legR2
+bounds:190,641,926,370

@@ -1,0 +1,19 @@
+palm 3.png
+size:5170,3808
+filter:Linear,Linear
+pma:true
+1
+bounds:4286,1229,2577,882
+rotate:90
+2
+bounds:2,106,2089,924
+3
+bounds:2093,2,2634,1020
+4
+bounds:2,1032,2249,1503
+5
+bounds:2253,1024,1511,2031
+rotate:90
+palm
+bounds:2,2537,1269,4115
+rotate:90

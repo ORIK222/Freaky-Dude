@@ -1,0 +1,21 @@
+magic carpet.png
+size:625,1615
+filter:Linear,Linear
+pma:true
+cower
+bounds:2,331,1282,344
+rotate:90
+layers2
+bounds:2,2,285,162
+layers3
+bounds:348,363,229,140
+layers4
+bounds:348,213,226,148
+layers5
+bounds:331,50,286,161
+rul
+bounds:2,166,163,327
+rotate:90
+shadow
+bounds:348,505,1108,275
+rotate:90

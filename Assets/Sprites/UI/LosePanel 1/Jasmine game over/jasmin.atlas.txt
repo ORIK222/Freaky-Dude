@@ -1,0 +1,360 @@
+jasmin.png
+size:2001,936
+filter:Linear,Linear
+pma:true
+scale:0.5
+Black_dress/Left   arm dw  Skin 2
+bounds:1623,193,56,106
+rotate:90
+Black_dress/Left   arm up  Skin 2
+bounds:1775,327,38,127
+rotate:90
+Black_dress/Left  finger 3 Skin 2
+bounds:1783,72,27,26
+rotate:90
+Black_dress/Left  shoes Skin 2
+bounds:1583,8,59,56
+Black_dress/Left leg dw Skin 2
+bounds:1189,273,54,180
+rotate:90
+Black_dress/Left leg up Skin 2
+bounds:1199,413,86,216
+rotate:90
+Black_dress/Left wrist 1  Skin 2
+bounds:1811,99,40,48
+Black_dress/Left wrist 2  Skin 2
+bounds:1783,2,30,33
+rotate:90
+Black_dress/Left wrist 3  Skin 2
+bounds:1858,123,34,48
+rotate:90
+Black_dress/Right arm dw  Skin 2
+bounds:1450,196,65,102
+rotate:90
+Black_dress/Right arm up  Skin 2
+bounds:1801,435,51,125
+rotate:90
+Black_dress/Right leg dw Skin 2
+bounds:1935,616,64,178
+Black_dress/Right leg up Skin 2
+bounds:712,243,82,218
+Black_dress/Right shoes Skin 2
+bounds:1644,8,59,56
+Black_dress/Right wrist 1  Skin 2
+bounds:1709,141,43,50
+Black_dress/Right wrist 2  Skin 2
+bounds:1819,35,33,35
+Black_dress/Right wrist 3  Skin 2
+bounds:1947,77,40,36
+Black_dress/body Skin 2
+bounds:282,2,133,294
+rotate:90
+Black_dress/clothing  Skin 2
+bounds:1363,788,146,378
+rotate:90
+BlueDress/Left   arm dw  Skin 4
+bounds:1138,53,83,107
+rotate:90
+BlueDress/Left   arm up  Skin 4
+bounds:1805,541,44,128
+rotate:90
+BlueDress/Left  shoes Skin 4
+bounds:1372,2,63,57
+BlueDress/Left leg dw Skin 4
+bounds:1633,368,55,180
+rotate:90
+BlueDress/Left leg up Skin 4
+bounds:796,259,93,209
+rotate:90
+BlueDress/Right arm dw  Skin 4
+bounds:1749,260,65,114
+rotate:90
+BlueDress/Right arm up  Skin 2
+bounds:1805,488,51,127
+rotate:90
+BlueDress/Right leg dw Skin 4
+bounds:1935,437,64,177
+BlueDress/Right leg up Skin 4
+bounds:1417,345,80,214
+rotate:90
+BlueDress/Right shoes Skin 4
+bounds:1754,149,59,56
+BlueDress/body Skin 4
+bounds:1388,654,132,291
+rotate:90
+BlueDress/dress  Skin 1_4
+bounds:1193,595,157,193
+rotate:90
+BlueDress/dress  Skin 2_4
+bounds:1058,439,139,145
+Dirty_Black_dress/dirt  Right arm dn Skin 6
+bounds:1642,496,22,31
+rotate:90
+Dirty_Black_dress/dirt  Right arm up Skin 7
+bounds:1615,66,33,72
+rotate:90
+Dirty_Black_dress/dirt  Right leg dw Skin 2
+bounds:1891,47,33,35
+rotate:90
+Dirty_Black_dress/dirt  Right leg dw Skin 5
+bounds:1858,159,39,68
+rotate:90
+Dirty_Black_dress/dirt  Right leg up Skin 1
+bounds:2,3,27,85
+rotate:90
+Dirty_Black_dress/dirt  Right leg up Skin 4
+bounds:1618,142,49,89
+rotate:90
+Dirty_Black_dress/dirt  body Skin 3
+bounds:1024,139,50,140
+rotate:90
+Dirty_Throus/dirt  Right arm up Skin 6
+bounds:1904,333,22,32
+Dirty_Throus/dirt  Right leg dw Skin 1
+bounds:1815,149,41,56
+Dirty_Throus/dirt  Right leg dw Skin 5
+bounds:1908,115,40,44
+rotate:90
+Dirty_Throus/dirt  Right leg up Skin 2
+bounds:144,7,23,48
+rotate:90
+Dirty_Throus/dirt  Right leg up Skin 4
+bounds:1618,101,39,80
+rotate:90
+Dirty_Throus/dirt  body Skin 3
+bounds:1633,329,37,140
+rotate:90
+Dirty_jeans/Layer 1
+bounds:1554,207,67,54
+Dirty_jeans/Layer 2
+bounds:1748,2,26,21
+Dirty_jeans/dirt  Left  leg dw Skin 1
+bounds:847,2,45,117
+rotate:90
+Dirty_jeans/dirt  Right arm dn Skin 1
+bounds:1741,67,31,40
+rotate:90
+Dirty_jeans/dirt  Right arm up Skin 1
+bounds:1576,126,40,79
+Dirty_jeans/dirt  Right leg up Skin 0
+bounds:1475,134,60,99
+rotate:90
+Dirty_jeans/dirt  Right leg up Skin 1
+bounds:1623,251,76,124
+rotate:90
+Dirty_jeans/dirt  body Skin 1
+bounds:1325,61,75,88
+rotate:90
+Dirty_jeans/dirt Left  leg up Skin 1
+bounds:1248,2,51,122
+rotate:90
+Gray/Hair grey
+bounds:1928,333,71,102
+Gray/Hair2 grey
+bounds:1024,191,110,160
+rotate:90
+Gray/Hair3 grey
+bounds:282,137,164,324
+Gray/Left leg up This
+bounds:796,354,100,213
+rotate:90
+Gray/arm_dw_1 grey
+bounds:1479,4,63,102
+rotate:90
+Gray/arm_dw_1 grey copy
+bounds:1466,69,63,102
+rotate:90
+Gray/arm_up_1 grey
+bounds:1872,200,51,121
+rotate:90
+Gray/arm_up_1 grey copy
+bounds:1749,207,51,121
+rotate:90
+Gray/body grey
+bounds:1681,496,122,290
+Gray/finger1 grey
+bounds:117,2,28,25
+rotate:90
+Gray/foot grey copy
+bounds:1700,100,64,39
+Gray/foot grey
+bounds:1700,100,64,39
+Gray/head grey
+bounds:1011,35,102,125
+rotate:90
+Gray/leg_dw grey copy
+bounds:1011,303,64,176
+rotate:90
+Gray/leg_dw grey
+bounds:1011,303,64,176
+rotate:90
+Gray/leg_up grey
+bounds:1408,263,80,213
+rotate:90
+Gray/wrist grey
+bounds:1818,2,30,33
+rotate:90
+Gray/wrist1 grey
+bounds:1689,66,32,50
+rotate:90
+Gray/wrist4 grey
+bounds:1705,11,41,53
+Gray/wrist5 grey
+bounds:1783,34,36,34
+rotate:90
+Gray/wrist7 grey
+bounds:1954,115,38,40
+Hair
+bounds:1344,188,73,104
+rotate:90
+Hair2
+bounds:847,49,112,162
+rotate:90
+Hair3
+bounds:865,586,166,326
+rotate:90
+Nose
+bounds:1437,2,40,57
+arm_dw_1
+bounds:1138,2,49,108
+rotate:90
+arm_up_1
+bounds:1166,138,47,123
+rotate:90
+belt
+bounds:1291,138,105,47
+bikini
+bounds:1904,253,95,78
+body
+bounds:578,2,133,267
+rotate:90
+bra
+bounds:1815,367,110,66
+browL
+bounds:268,423,38,8
+rotate:90
+browR
+bounds:1989,83,30,10
+rotate:90
+eye
+bounds:1854,47,35,34
+eyelish
+bounds:1865,260,37,21
+finger1
+bounds:1371,263,26,30
+rotate:90
+foot
+bounds:1928,157,66,41
+head
+bounds:693,137,104,127
+rotate:90
+iris
+bounds:693,243,13,13
+jeans/Left pants  1  Skin 1
+bounds:268,692,242,595
+rotate:90
+jeans/Left pants 2 Skin 1
+bounds:268,463,227,482
+rotate:90
+jeans/Left sleeve Skin 1
+bounds:1743,796,138,249
+rotate:90
+jeans/Left sleeve Skin 2
+bounds:1743,796,138,249
+rotate:90
+jeans/Right  sneakers 3  Skin 1
+bounds:1805,587,207,128
+rotate:90
+jeans/Right pants  1  Skin 1
+bounds:2,350,264,584
+jeans/Right pants  2 Skin 1
+bounds:865,754,180,496
+rotate:90
+jeans/T-shirt  Skin 1
+bounds:2,32,316,278
+rotate:90
+jeans/bangle
+bounds:1247,55,81,76
+rotate:90
+jeans/belt-Skin-1
+bounds:448,137,243,119
+offsets:0,170,504,289
+jeans/choker Skin 1
+bounds:966,2,94,31
+jeans/left sneakers 3 Skin 1
+bounds:849,456,207,128
+jeans/pants  0 Skin 1
+bounds:448,258,262,203
+leg_dw
+bounds:1011,369,68,179
+offsets:10,0,86,181
+rotate:90
+leg_up
+bounds:1192,329,82,214
+rotate:90
+mechanic/Left  shoe  Skin 3
+bounds:1415,61,75,49
+rotate:90
+mechanic/Left leg dw Skin 3
+bounds:1642,425,69,157
+rotate:90
+mechanic/Left leg up Skin 3
+bounds:752,469,95,221
+mechanic/Right  shoe  Skin 3
+bounds:1398,138,75,48
+mechanic/Right leg dw Skin 3
+bounds:1186,187,84,156
+rotate:90
+mechanic/Right leg up Skin 3
+bounds:1417,427,91,223
+rotate:90
+mechanic/body Skin 2
+bounds:1388,520,132,291
+rotate:90
+mouth 4
+bounds:1890,18,29,27
+mouth1
+bounds:1116,2,31,17
+rotate:90
+mouth2
+bounds:1363,754,32,18
+rotate:90
+mouth3
+bounds:230,10,36,20
+mouth5
+bounds:194,7,34,23
+mouth6
+bounds:1811,72,25,27
+rotate:90
+mouth7
+bounds:1731,230,16,19
+necklace
+bounds:1853,83,48,38
+pants_dw
+bounds:1199,501,92,184
+offsets:16,4,124,191
+rotate:90
+pants_up
+bounds:822,163,94,200
+rotate:90
+sleeve
+bounds:1903,82,42,31
+sleeve2
+bounds:1748,25,40,33
+rotate:90
+sleeve3
+bounds:89,2,28,26
+rotate:90
+wrist
+bounds:1853,2,35,31
+wrist1
+bounds:1062,2,52,31
+wrist3
+bounds:1766,101,43,46
+wrist4
+bounds:1570,69,43,55
+wrist45
+bounds:1371,291,35,36
+wrist7
+bounds:1865,283,42,37
+rotate:90

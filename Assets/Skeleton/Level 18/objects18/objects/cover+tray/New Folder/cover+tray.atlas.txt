@@ -1,0 +1,9 @@
+cover+tray.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+scale:0.5
+cover
+bounds:2,143,909,502
+tray
+bounds:2,2,974,139

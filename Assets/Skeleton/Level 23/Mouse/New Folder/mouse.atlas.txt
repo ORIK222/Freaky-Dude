@@ -1,0 +1,56 @@
+mouse.png
+size:8192,2048
+filter:Linear,Linear
+pma:true
+scale:0.5
+body
+bounds:2,270,1266,1776
+browR
+bounds:1199,196,468,72
+hand R 1
+bounds:4312,213,643,888
+hand R 2
+bounds:2468,62,799,356
+hand R 3
+bounds:480,2,360,266
+hand1
+bounds:842,8,355,260
+hand12
+bounds:1669,23,797,393
+hand13
+bounds:2453,420,619,905
+rotate:90
+head
+bounds:1270,418,1628,1181
+rotate:90
+leg L  2
+bounds:4488,1341,562,705
+leg12
+bounds:4488,1341,562,705
+leg L  3
+bounds:2453,1041,1005,989
+rotate:90
+leg13
+bounds:2453,1041,1005,989
+rotate:90
+leg L 1
+bounds:3360,555,484,950
+rotate:90
+leg1
+bounds:3360,555,484,950
+rotate:90
+mouth  2
+bounds:2,9,250,51
+mouth  3
+bounds:3269,37,381,427
+rotate:90
+mouth 1
+bounds:1199,48,193,146
+pup
+bounds:1394,102,92,92
+pup2
+bounds:1394,102,92,92
+tail
+bounds:3444,1103,1042,943
+weki
+bounds:2,62,476,206

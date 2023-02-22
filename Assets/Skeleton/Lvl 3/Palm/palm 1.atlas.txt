@@ -1,0 +1,18 @@
+palm 1.png
+size:5050,3583
+filter:Linear,Linear
+pma:true
+1
+bounds:2227,2,2292,1214
+2
+bounds:992,1218,2042,1381
+3
+bounds:2,1092,2489,988
+rotate:90
+4
+bounds:2,76,2223,1014
+5
+bounds:3036,1705,1970,894
+palm
+bounds:992,2601,980,4056
+rotate:90

@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Level 13
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 3
+      m_CompressionQuality: 0
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 7468c94524b29504099d9359b8462147, type: 3}
+    - {fileID: 2800000, guid: 30fb1fd3cb4ffc346b2fe0f61e6c3b1b, type: 3}
+    - {fileID: 2800000, guid: d636e353ea4ff984cbb19c9e4ffc3784, type: 3}
+    - {fileID: 2800000, guid: 6211e7d0f7fed214e90336622ffaae35, type: 3}
+    - {fileID: 2800000, guid: ca627b29b9232694e8d0bb341ccf20a9, type: 3}
+    - {fileID: 2800000, guid: b388a37ae0c074d4097bb2f55e1dee19, type: 3}
+    - {fileID: 2800000, guid: b3f8f019d2839ba44b5d206e33d58ee7, type: 3}
+    - {fileID: 2800000, guid: cd3de31f2f00b8344944e5882c9f1a25, type: 3}
+    - {fileID: 2800000, guid: dab2c7335470e744789e4460070dcab2, type: 3}
+    - {fileID: 2800000, guid: fda690c99c0ed06498c3aaa6df6f8412, type: 3}
+    - {fileID: 2800000, guid: 82677ca761cff044dbc52ec6409f6d6b, type: 3}
+    - {fileID: 2800000, guid: c848014dfc2230e438b8536c532d6f23, type: 3}
+    - {fileID: 2800000, guid: 1df4dd2a9068fd147986e9773db7eb9e, type: 3}
+    - {fileID: 2800000, guid: d35aae398d04df949b5b56e8786ca6ea, type: 3}
+    - {fileID: 2800000, guid: a045efc508a3a1f418c61341a257479b, type: 3}
+    - {fileID: 2800000, guid: 50c742f82be971243b0756fce1bfc107, type: 3}
+    - {fileID: 2800000, guid: 8a1a81ec81c3ff443a00d7272e979eb6, type: 3}
+    - {fileID: 2800000, guid: 9497a70b0cfb9a441ba506c558b1e156, type: 3}
+    - {fileID: 2800000, guid: e6ba8292548eee449a799a94c42c3439, type: 3}
+    - {fileID: 2800000, guid: 63ccf539ead9441449d180a5c20c5b9e, type: 3}
+    - {fileID: 2800000, guid: a0fc6ae77cbd4194888a235ff5cdfbf0, type: 3}
+    - {fileID: 2800000, guid: 3fdcfdbdd61b636489a00802f8829a66, type: 3}
+    - {fileID: 2800000, guid: 61175f3ad9643ca43863a563c2e6c638, type: 3}
+    - {fileID: 2800000, guid: c8478b3e847ceba4eb38bf61dda27764, type: 3}
+    - {fileID: 2800000, guid: b09e7563ada83524c8089ba4cf4a6b7d, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 6211e7d0f7fed214e90336622ffaae35, type: 3}
+  - {fileID: 21300000, guid: e6ba8292548eee449a799a94c42c3439, type: 3}
+  - {fileID: 21300000, guid: dab2c7335470e744789e4460070dcab2, type: 3}
+  - {fileID: 21300000, guid: b09e7563ada83524c8089ba4cf4a6b7d, type: 3}
+  - {fileID: 21300000, guid: 30fb1fd3cb4ffc346b2fe0f61e6c3b1b, type: 3}
+  - {fileID: 21300000, guid: 82677ca761cff044dbc52ec6409f6d6b, type: 3}
+  - {fileID: 21300000, guid: a0fc6ae77cbd4194888a235ff5cdfbf0, type: 3}
+  - {fileID: 21300000, guid: b3f8f019d2839ba44b5d206e33d58ee7, type: 3}
+  - {fileID: 21300000, guid: ca627b29b9232694e8d0bb341ccf20a9, type: 3}
+  - {fileID: 21300000, guid: 63ccf539ead9441449d180a5c20c5b9e, type: 3}
+  - {fileID: 21300000, guid: fda690c99c0ed06498c3aaa6df6f8412, type: 3}
+  - {fileID: 21300000, guid: 1df4dd2a9068fd147986e9773db7eb9e, type: 3}
+  - {fileID: 21300000, guid: 61175f3ad9643ca43863a563c2e6c638, type: 3}
+  - {fileID: 21300000, guid: b388a37ae0c074d4097bb2f55e1dee19, type: 3}
+  - {fileID: 21300000, guid: c848014dfc2230e438b8536c532d6f23, type: 3}
+  - {fileID: 21300000, guid: 3fdcfdbdd61b636489a00802f8829a66, type: 3}
+  - {fileID: 21300000, guid: cd3de31f2f00b8344944e5882c9f1a25, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 1
+  - thoughts
+  - f3
+  - Yacht
+  - 1
+  - f5
+  - boat
+  - f1
+  - 2
+  - wood
+  - f4
+  - f7
+  - palm&rope
+  - 3
+  - f6
+  - fountain
+  - f2
+  m_RenderDataMap: {}
+  m_Tag: Level 13
+  m_IsVariant: 0

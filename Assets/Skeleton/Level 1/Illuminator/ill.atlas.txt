@@ -1,0 +1,17 @@
+ill.png
+size:1043,619
+filter:Linear,Linear
+pma:true
+scale:0.3
+cickl
+bounds:2,2,615,615
+ric
+bounds:619,77,63,79
+sqs
+bounds:619,158,227,422
+offsets:88,106,615,615
+rotate:90
+sws
+bounds:619,387,230,421
+offsets:291,109,615,615
+rotate:90

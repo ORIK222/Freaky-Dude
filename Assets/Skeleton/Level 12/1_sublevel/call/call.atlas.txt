@@ -1,0 +1,16 @@
+call.png
+size:1874,460
+filter:Linear,Linear
+pma:true
+1
+bounds:1125,2,166,492
+offsets:2,1,169,495
+rotate:90
+2
+bounds:1125,170,288,747
+offsets:2,2,294,750
+rotate:90
+3
+bounds:2,23,435,1121
+offsets:0,0,438,1123
+rotate:90

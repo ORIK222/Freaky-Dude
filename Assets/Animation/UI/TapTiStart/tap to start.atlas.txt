@@ -1,0 +1,7 @@
+tap to start.png
+size:698,168
+filter:Linear,Linear
+pma:true
+scale:0.5
+1
+bounds:2,2,694,164

@@ -1,0 +1,25 @@
+mask 1.png
+size:1024,512
+filter:Linear,Linear
+pma:true
+scale:0.5
+0
+bounds:662,135,169,100
+rotate:90
+eyelL
+bounds:701,91,42,32
+rotate:90
+eyelR
+bounds:701,91,42,32
+rotate:90
+eyelidL
+bounds:662,96,37,37
+eyelidR
+bounds:662,96,37,37
+mask
+bounds:2,2,302,658
+rotate:90
+pupilL
+bounds:662,76,18,18
+pupilR
+bounds:662,76,18,18

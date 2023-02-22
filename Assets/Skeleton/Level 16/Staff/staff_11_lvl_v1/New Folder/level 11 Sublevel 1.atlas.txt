@@ -1,0 +1,8 @@
+level 11 Sublevel 1.png
+size:256,128
+filter:Linear,Linear
+pma:true
+scale:0.5
+1
+bounds:2,2,122,170
+rotate:90

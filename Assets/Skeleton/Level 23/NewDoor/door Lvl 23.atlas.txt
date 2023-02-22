@@ -1,0 +1,7 @@
+door Lvl 23.png
+size:2048,256
+filter:Linear,Linear
+pma:true
+door
+bounds:2,2,179,1772
+rotate:90

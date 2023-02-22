@@ -1,0 +1,7 @@
+palette.png
+size:590,315
+filter:Linear,Linear
+pma:true
+scale:0.3
+pallette
+bounds:2,2,586,311

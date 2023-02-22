@@ -1,0 +1,7 @@
+hotdog-shop.png
+size:674,959
+filter:Linear,Linear
+pma:true
+scale:0.5
+hotdogs
+bounds:2,2,670,955

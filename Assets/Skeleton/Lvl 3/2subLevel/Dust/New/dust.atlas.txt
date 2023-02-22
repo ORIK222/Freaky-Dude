@@ -1,0 +1,11 @@
+dust.png
+size:4096,2048
+filter:Linear,Linear
+pma:true
+scale:0.5
+1
+bounds:2,2,2387,806
+2
+bounds:1646,810,2026,684
+3
+bounds:2,940,1642,554

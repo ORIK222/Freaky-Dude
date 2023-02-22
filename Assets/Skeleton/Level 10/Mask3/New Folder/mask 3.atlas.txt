@@ -1,0 +1,25 @@
+mask 3.png
+size:1024,512
+filter:Linear,Linear
+pma:true
+scale:0.5
+0
+bounds:658,306,169,100
+rotate:90
+eyeL
+bounds:658,267,37,37
+eyeR
+bounds:658,267,37,37
+eyelidL
+bounds:697,262,42,32
+rotate:90
+eyelidR
+bounds:697,262,42,32
+rotate:90
+mask
+bounds:2,2,473,654
+rotate:90
+pupilL
+bounds:658,247,18,18
+pupilR
+bounds:658,247,18,18

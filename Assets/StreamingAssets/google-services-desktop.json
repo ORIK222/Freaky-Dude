@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "52438599136",
+    "project_id": "freaky-dude-331b4",
+    "storage_bucket": "freaky-dude-331b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52438599136:android:ba1e68b66debf06abd9785",
+        "android_client_info": {
+          "package_name": "feikstudio.freakydude.rwg.orik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52438599136-q0ef2inhrlvst4jgei36vd214t99gmrj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4cojpE9qsWYcHtr_OmKLgdmAz9XDV1Bo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52438599136-q0ef2inhrlvst4jgei36vd214t99gmrj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

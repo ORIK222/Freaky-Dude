@@ -1,0 +1,8 @@
+fire2.png
+size:32,32
+filter:Linear,Linear
+pma:true
+scale:0.5
+2
+bounds:2,2,20,28
+offsets:1,1,22,29

@@ -1,0 +1,11 @@
+safe.png
+size:1024,2048
+filter:Linear,Linear
+pma:true
+scale:0.5
+1
+bounds:2,922,709,1116
+2
+bounds:2,2,456,918
+shine
+bounds:460,491,265,429

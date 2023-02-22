@@ -1,0 +1,6 @@
+closed.png
+size:1762,590
+filter:Linear,Linear
+pma:true
+CLOSED
+bounds:2,2,1758,586

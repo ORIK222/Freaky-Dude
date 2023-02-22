@@ -1,0 +1,7 @@
+dirt.png
+size:192,58
+filter:Linear,Linear
+pma:true
+scale:0.4
+dirt
+bounds:2,2,188,54

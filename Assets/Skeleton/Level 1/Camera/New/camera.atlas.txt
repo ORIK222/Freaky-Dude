@@ -1,0 +1,6 @@
+camera.png
+size:2048,2048
+filter:Linear,Linear
+pma:true
+camera
+bounds:2,2,1245,1759

@@ -1,0 +1,8 @@
+clothes fly out.png
+size:734,245
+filter:Linear,Linear
+pma:true
+1
+bounds:409,10,323,233
+2
+bounds:2,2,405,241

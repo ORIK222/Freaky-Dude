@@ -1,0 +1,7 @@
+sneakers.png
+size:1024,512
+filter:Linear,Linear
+pma:true
+scale:0.5
+sR3
+bounds:2,2,793,479

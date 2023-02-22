@@ -1,0 +1,69 @@
+John Wick level 11 Sublevel 2.png
+size:4096,4096
+filter:Linear,Linear
+pma:true
+Left hand 1
+bounds:2,1577,581,1418
+rotate:90
+Left hand 2
+bounds:2231,3604,400,1523
+rotate:90
+Left hand 3
+bounds:835,3622,382,638
+rotate:90
+Left hand 4
+bounds:1475,3622,382,754
+rotate:90
+Right  foot 1
+bounds:617,3174,446,1606
+rotate:90
+Right  foot 2
+bounds:2225,3156,446,1642
+rotate:90
+Right  foot 3
+bounds:3260,2243,911,494
+rotate:90
+Right hand 1
+bounds:915,2160,545,1284
+rotate:90
+Right hand 2
+bounds:1422,1352,754,1337
+rotate:90
+Right hand 3
+bounds:2,3436,458,613
+rotate:90
+Right weko
+bounds:511,3896,322,108
+head
+bounds:2,2,1348,1836
+rotate:90
+left foot 1
+bounds:2,2726,446,1612
+rotate:90
+left foot 2
+bounds:1616,2707,447,1642
+rotate:90
+left foot 3
+bounds:2,2231,911,493
+left pup
+bounds:88,3919,85,85
+left weko
+bounds:175,3910,334,94
+neck
+bounds:2201,2108,597,1046
+rotate:90
+pistol
+bounds:2761,1242,1216,864
+pup
+bounds:2,3920,84,84
+
+John Wick level 11 Sublevel 2_2.png
+size:4096,4096
+filter:Linear,Linear
+pma:true
+suitcase
+bounds:2,2,2593,1706
+torso 1
+bounds:2,1710,1491,2819
+offsets:0,2,1491,2821
+rotate:90

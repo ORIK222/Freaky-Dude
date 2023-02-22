@@ -1,0 +1,11 @@
+brush.png
+size:2048,1024
+filter:Linear,Linear
+pma:true
+scale:0.5
+b1
+bounds:2,2,518,956
+b2
+bounds:983,220,400,738
+b3
+bounds:522,110,459,848

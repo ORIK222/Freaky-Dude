@@ -1,0 +1,6 @@
+ticket.png
+size:1806,368
+filter:Linear,Linear
+pma:true
+ticket
+bounds:2,2,1802,364

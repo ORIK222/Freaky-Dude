@@ -1,0 +1,15 @@
+slingshot.png
+size:664,982
+filter:Linear,Linear
+pma:true
+scale:0.5
+rope1
+bounds:152,2,510,381
+rope2
+bounds:2,203,777,148
+rotate:90
+slingshot
+bounds:152,385,503,595
+stone
+bounds:2,99,102,79
+rotate:90

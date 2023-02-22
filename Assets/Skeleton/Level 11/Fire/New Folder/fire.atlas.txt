@@ -1,0 +1,14 @@
+fire.png
+size:4096,2048
+filter:Linear,Linear
+pma:true
+scale:0.5
+1
+bounds:2,2,1986,914
+rotate:90
+2
+bounds:918,277,1711,702
+rotate:90
+3
+bounds:1622,520,1468,486
+rotate:90

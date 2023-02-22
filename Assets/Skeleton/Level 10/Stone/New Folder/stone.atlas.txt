@@ -1,0 +1,10 @@
+stone.png
+size:2048,1024
+filter:Linear,Linear
+pma:true
+scale:0.5
+1
+bounds:2,2,705,689
+2
+bounds:709,15,676,671
+rotate:90

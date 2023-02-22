@@ -1,0 +1,6 @@
+wall.png
+size:199,672
+filter:Linear,Linear
+pma:true
+wall
+bounds:2,2,195,668

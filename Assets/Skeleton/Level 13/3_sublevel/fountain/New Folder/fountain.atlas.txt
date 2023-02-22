@@ -1,0 +1,13 @@
+fountain.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+scale:0.5
+w3
+bounds:2,2,792,665
+w4
+bounds:796,613,38,54
+offsets:1,1,40,55
+w5
+bounds:796,571,32,40
+offsets:1,1,33,43

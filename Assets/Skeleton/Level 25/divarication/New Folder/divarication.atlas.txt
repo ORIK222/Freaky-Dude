@@ -1,0 +1,15 @@
+divarication.png
+size:2048,512
+filter:Linear,Linear
+pma:true
+scale:0.5
+1
+bounds:894,6,279,368
+rotate:90
+2
+bounds:2,45,890,240
+3
+bounds:2,2,41,475
+rotate:90
+4
+bounds:1264,157,151,128

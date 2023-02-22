@@ -1,0 +1,10 @@
+tubing.png
+size:1024,2048
+filter:Linear,Linear
+pma:true
+scale:0.5
+1
+bounds:2,2,571,632
+rotate:90
+2
+bounds:2,575,622,715

@@ -1,0 +1,13 @@
+thoughts bank.png
+size:1024,256
+filter:Linear,Linear
+pma:true
+scale:0.5
+1
+bounds:461,80,66,46
+rotate:90
+2
+bounds:461,148,90,61
+rotate:90
+bank
+bounds:2,2,457,236

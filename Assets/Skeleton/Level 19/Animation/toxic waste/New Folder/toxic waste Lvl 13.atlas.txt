@@ -1,0 +1,25 @@
+toxic waste Lvl 13.png
+size:4096,1024
+filter:Linear,Linear
+pma:true
+scale:0.5
+1
+bounds:1490,297,1488,310
+2
+bounds:1490,609,1488,410
+3
+bounds:2,49,1486,477
+4
+bounds:2,528,1486,491
+w1
+bounds:1631,110,185,172
+rotate:90
+w2
+bounds:1490,105,139,190
+w3
+bounds:1631,2,106,158
+rotate:90
+w4
+bounds:1805,7,112,143
+w5
+bounds:1805,152,140,143

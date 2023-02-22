@@ -1,0 +1,23 @@
+level 16 Sublevel 1 Explosion.png
+size:3591,4321
+filter:Linear,Linear
+pma:true
+scale:0.5
+Bridge-1
+bounds:2,3705,2603,614
+Bridge-2
+bounds:3402,4039,280,156
+rotate:90
+Bridge-3
+bounds:2607,3332,490,468
+Bridge-4
+bounds:2607,3802,793,517
+Explosion 1
+bounds:2171,1831,1389,1499
+Explosion 2
+bounds:1611,312,1978,1481
+Explosion 3
+bounds:2,1795,2167,1908
+Explosion 4
+bounds:2,2,1791,1607
+rotate:90

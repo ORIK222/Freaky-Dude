@@ -1,0 +1,57 @@
+Leon.png
+size:8192,4096
+filter:Linear,Linear
+pma:true
+scale:0.5
+0
+bounds:2,1266,1218,2823
+Brow R
+bounds:2,48,588,57
+HandL
+bounds:4231,217,522,335
+rotate:90
+HandL3
+bounds:4568,217,522,335
+rotate:90
+HandR
+bounds:1652,3,299,338
+rotate:90
+arm dw  L
+bounds:4231,741,693,737
+arm dw  R
+bounds:2573,31,848,271
+arm up L
+bounds:2,107,427,1157
+arm up R
+bounds:431,107,427,1157
+body
+bounds:1652,304,1035,2577
+rotate:90
+bracelet
+bounds:2404,25,277,167
+rotate:90
+coat 1
+bounds:2596,1445,786,2644
+coat 2
+bounds:1806,1435,788,2654
+coat 3
+bounds:1222,1341,582,2748
+handL2
+bounds:1992,20,410,282
+head
+bounds:860,122,790,1142
+karmanUp
+bounds:4905,246,463,493
+leg L
+bounds:3384,2415,433,1674
+leg R
+bounds:3819,2434,772,1655
+mouth  1
+bounds:204,18,172,28
+mouth  2
+bounds:2,3,200,43
+mouth  3
+bounds:204,2,166,14
+water
+bounds:3384,1480,933,889
+rotate:90

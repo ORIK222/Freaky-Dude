@@ -1,0 +1,11 @@
+bolg.png
+size:983,303
+filter:Linear,Linear
+pma:true
+scale:0.5
+1
+bounds:817,78,164,223
+2
+bounds:2,2,527,299
+3
+bounds:531,17,284,284

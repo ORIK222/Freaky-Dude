@@ -1,0 +1,6 @@
+glasses.png
+size:330,1003
+filter:Linear,Linear
+pma:true
+glasses
+bounds:2,2,326,999

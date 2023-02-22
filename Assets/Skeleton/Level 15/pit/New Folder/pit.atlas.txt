@@ -1,0 +1,7 @@
+pit.png
+size:256,64
+filter:Linear,Linear
+pma:true
+scale:0.5
+pit
+bounds:2,2,169,59

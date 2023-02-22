@@ -1,0 +1,15 @@
+palm&rope.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+scale:0.5
+1
+bounds:416,79,73,81
+2
+bounds:2,2,289,412
+rotate:90
+3
+bounds:2,293,645,715
+4
+bounds:416,162,129,75
+rotate:90

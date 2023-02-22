@@ -1,0 +1,14 @@
+water.png
+size:559,237
+filter:Linear,Linear
+pma:true
+scale:0.5
+WATER
+bounds:458,29,54,146
+layers1
+bounds:514,112,63,43
+rotate:90
+layers2
+bounds:458,177,87,58
+layers3
+bounds:2,2,454,233

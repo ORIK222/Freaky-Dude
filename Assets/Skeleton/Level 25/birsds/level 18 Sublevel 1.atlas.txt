@@ -1,0 +1,12 @@
+level 18 Sublevel 1.png
+size:208,37
+filter:Linear,Linear
+pma:true
+scale:0.3
+Group 1
+bounds:114,2,92,33
+Group 2
+bounds:2,6,110,29
+eye L  1 2
+bounds:2,2,1,2
+offsets:1005,1150,1353,1851

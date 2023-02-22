@@ -1,0 +1,7 @@
+tower.png
+size:441,578
+filter:Linear,Linear
+pma:true
+scale:0.3
+Layer 1
+bounds:2,2,437,574

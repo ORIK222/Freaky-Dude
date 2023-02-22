@@ -1,0 +1,9 @@
+trampoline.png
+size:1024,512
+filter:Linear,Linear
+pma:true
+scale:0.5
+1
+bounds:2,2,580,185
+2
+bounds:2,189,584,222

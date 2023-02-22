@@ -1,0 +1,13 @@
+lighter.png
+size:1028,383
+filter:Linear,Linear
+pma:true
+1
+bounds:871,127,47,20
+2
+bounds:2,2,379,443
+rotate:90
+3
+bounds:447,9,422,372
+fire
+bounds:871,149,155,232

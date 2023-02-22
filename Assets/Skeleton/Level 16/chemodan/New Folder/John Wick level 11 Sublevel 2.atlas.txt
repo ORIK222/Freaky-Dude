@@ -1,0 +1,7 @@
+John Wick level 11 Sublevel 2.png
+size:2048,1024
+filter:Linear,Linear
+pma:true
+scale:0.5
+suitcase
+bounds:2,2,1297,853

@@ -1,0 +1,7 @@
+skeleton.png
+size:443,727
+filter:Linear,Linear
+pma:true
+scale:0.5
+new
+bounds:2,2,439,723

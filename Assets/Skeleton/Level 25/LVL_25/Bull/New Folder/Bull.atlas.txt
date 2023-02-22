@@ -1,0 +1,37 @@
+Bull.png
+size:8192,2048
+filter:Linear,Linear
+pma:true
+scale:0.5
+1
+bounds:3091,24,284,179
+2
+bounds:4360,1754,287,287
+body
+bounds:2,655,1264,1386
+body 2
+bounds:3916,34,885,502
+rotate:90
+hand L 1
+bounds:1999,737,796,1304
+hand L 2
+bounds:3769,921,1120,589
+rotate:90
+hand R 1
+bounds:1268,685,729,1356
+hand R 2
+bounds:1891,81,1198,602
+head
+bounds:2797,799,970,1242
+leg L  1
+bounds:2,2,583,651
+leg L  2
+bounds:1211,18,267,635
+leg R 1
+bounds:3091,205,592,823
+rotate:90
+leg R 2
+bounds:587,12,622,641
+tail
+bounds:1480,79,604,409
+rotate:90

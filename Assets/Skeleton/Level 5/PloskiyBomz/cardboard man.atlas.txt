@@ -1,0 +1,6 @@
+cardboard man.png
+size:1578,522
+filter:Linear,Linear
+pma:true
+bomz
+bounds:2,2,1574,518

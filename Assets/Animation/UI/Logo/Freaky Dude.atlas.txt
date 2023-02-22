@@ -1,0 +1,7 @@
+Freaky Dude.png
+size:504,319
+filter:Linear,Linear
+pma:true
+scale:0.5
+FreakyDude
+bounds:2,2,500,315

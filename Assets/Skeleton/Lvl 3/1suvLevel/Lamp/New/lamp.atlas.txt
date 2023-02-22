@@ -1,0 +1,7 @@
+lamp.png
+size:2048,1024
+filter:Linear,Linear
+pma:true
+scale:0.5
+4
+bounds:2,2,1327,748

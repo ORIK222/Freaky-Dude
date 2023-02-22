@@ -1,0 +1,17 @@
+waves.png
+size:2980,4071
+filter:Linear,Linear
+pma:true
+2
+bounds:2,2,2973,1566
+3
+bounds:2,1570,2976,1379
+4
+bounds:2,2951,2976,1118
+
+waves_2.png
+size:2977,1636
+filter:Linear,Linear
+pma:true
+1
+bounds:2,2,2973,1632

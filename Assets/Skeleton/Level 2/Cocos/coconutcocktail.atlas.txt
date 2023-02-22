@@ -1,0 +1,6 @@
+coconutcocktail.png
+size:1555,1616
+filter:Linear,Linear
+pma:true
+coco
+bounds:2,2,1551,1612

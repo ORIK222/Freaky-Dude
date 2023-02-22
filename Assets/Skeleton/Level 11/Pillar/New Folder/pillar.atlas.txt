@@ -1,0 +1,7 @@
+pillar.png
+size:512,1024
+filter:Linear,Linear
+pma:true
+scale:0.5
+pillar
+bounds:2,2,342,848

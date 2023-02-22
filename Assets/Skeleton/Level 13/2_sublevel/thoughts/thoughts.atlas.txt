@@ -1,0 +1,14 @@
+thoughts.png
+size:1206,475
+filter:Linear,Linear
+pma:true
+1
+bounds:1099,50,132,91
+rotate:90
+2
+bounds:917,60,180,122
+3
+bounds:2,2,913,471
+4
+bounds:917,184,289,287
+rotate:90

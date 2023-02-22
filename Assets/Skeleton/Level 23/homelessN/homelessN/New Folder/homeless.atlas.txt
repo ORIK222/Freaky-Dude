@@ -1,0 +1,16 @@
+homeless.png
+size:8192,4096
+filter:Linear,Linear
+pma:true
+scale:0.5
+0
+bounds:2,2,5625,2162
+1
+bounds:5629,843,212,162
+rotate:90
+2
+bounds:5629,1057,465,396
+rotate:90
+3
+bounds:5629,1524,640,578
+rotate:90

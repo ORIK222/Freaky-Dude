@@ -1,0 +1,11 @@
+mirage.png
+size:2048,1024
+filter:Linear,Linear
+pma:true
+scale:0.5
+1
+bounds:2,2,815,796
+2
+bounds:819,2,815,796
+3
+bounds:819,2,815,796

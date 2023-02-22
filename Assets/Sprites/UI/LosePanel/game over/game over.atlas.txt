@@ -1,0 +1,9 @@
+game over.png
+size:273,294
+filter:Linear,Linear
+pma:true
+scale:0.5
+Game
+bounds:2,2,269,137
+Over
+bounds:2,141,260,151

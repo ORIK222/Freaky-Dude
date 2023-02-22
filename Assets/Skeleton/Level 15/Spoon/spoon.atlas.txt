@@ -1,0 +1,6 @@
+spoon.png
+size:552,324
+filter:Linear,Linear
+pma:true
+spoon
+bounds:2,2,548,320

@@ -1,0 +1,14 @@
+genie.png
+size:4096,2048
+filter:Linear,Linear
+pma:true
+scale:0.5
+1
+bounds:2,357,1507,2038
+rotate:90
+2
+bounds:2042,754,1110,1502
+rotate:90
+3
+bounds:2042,2,750,1015
+rotate:90

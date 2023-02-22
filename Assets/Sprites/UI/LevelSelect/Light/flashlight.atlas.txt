@@ -1,0 +1,9 @@
+flashlight.png
+size:3210,1780
+filter:Linear,Linear
+pma:true
+1
+bounds:2597,2,611,1776
+2
+bounds:2,157,1621,2593
+rotate:90

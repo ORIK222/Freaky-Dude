@@ -1,0 +1,9 @@
+wood.png
+size:2048,512
+filter:Linear,Linear
+pma:true
+scale:0.5
+w1
+bounds:2,2,524,275
+w2
+bounds:528,3,522,274

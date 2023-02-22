@@ -1,0 +1,7 @@
+oar.png
+size:506,324
+filter:Linear,Linear
+pma:true
+scale:0.5
+Oar
+bounds:2,2,502,320

@@ -1,0 +1,11 @@
+some.png
+size:2048,1024
+filter:Linear,Linear
+pma:true
+scale:0.5
+m
+bounds:2,2,1203,647
+pup
+bounds:2,761,419,80
+yey
+bounds:423,651,594,190

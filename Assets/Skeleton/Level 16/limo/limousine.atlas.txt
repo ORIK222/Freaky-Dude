@@ -1,0 +1,11 @@
+limousine.png
+size:8192,512
+filter:Linear,Linear
+pma:true
+scale:0.5
+limousine
+bounds:2,2,6049,412
+wheel 1
+bounds:6053,174,240,240
+wheel 2
+bounds:6295,174,240,240

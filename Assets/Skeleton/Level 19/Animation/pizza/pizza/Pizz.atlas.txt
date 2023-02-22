@@ -1,0 +1,14 @@
+Pizz.png
+size:1415,944
+filter:Linear,Linear
+pma:true
+5
+bounds:922,727,464,215
+6
+bounds:471,737,449,205
+layers1
+bounds:2,811,195,131
+layers2
+bounds:199,762,270,180
+layers3
+bounds:2,2,1411,723

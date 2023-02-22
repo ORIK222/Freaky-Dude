@@ -1,0 +1,9 @@
+sambrero.png
+size:2048,512
+filter:Linear,Linear
+pma:true
+scale:0.5
+Sombrero 1
+bounds:2,2,839,401
+Sombrero 2
+bounds:843,2,839,401

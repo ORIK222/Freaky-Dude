@@ -1,0 +1,14 @@
+level 16 Sublevel 1 Explosion.png
+size:4096,4096
+filter:Linear,Linear
+pma:true
+scale:0.5
+Explosion 1
+bounds:1795,40,1389,1499
+Explosion 2
+bounds:2171,1541,1978,1481
+rotate:90
+Explosion 3
+bounds:2,1611,2167,1908
+Explosion 4
+bounds:2,2,1791,1607

@@ -1,0 +1,13 @@
+love.png
+size:525,240
+filter:Linear,Linear
+pma:true
+scale:0.5
+layers1
+bounds:462,80,66,46
+rotate:90
+layers2
+bounds:462,148,90,61
+rotate:90
+love
+bounds:2,2,458,236

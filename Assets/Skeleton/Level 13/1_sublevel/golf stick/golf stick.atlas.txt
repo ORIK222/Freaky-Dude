@@ -1,0 +1,10 @@
+golf stick.png
+size:1989,985
+filter:Linear,Linear
+pma:true
+1
+bounds:2,2,981,1702
+rotate:90
+2
+bounds:1706,529,454,281
+rotate:90

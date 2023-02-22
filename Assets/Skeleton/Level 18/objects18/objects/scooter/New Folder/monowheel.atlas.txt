@@ -1,0 +1,7 @@
+monowheel.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+scale:0.5
+monowheel
+bounds:2,2,965,959

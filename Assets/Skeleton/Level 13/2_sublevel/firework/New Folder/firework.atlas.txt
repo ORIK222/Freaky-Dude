@@ -1,0 +1,13 @@
+firework.png
+size:2048,512
+filter:Linear,Linear
+pma:true
+scale:0.5
+1
+bounds:2,75,326,840
+rotate:90
+2
+bounds:844,149,185,252
+3
+bounds:2,2,71,483
+rotate:90

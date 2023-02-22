@@ -1,0 +1,13 @@
+ring of fire-v2.png
+size:512,1024
+filter:Linear,Linear
+pma:true
+scale:0.5
+l
+bounds:240,139,39,532
+l1
+bounds:2,2,88,669
+l2
+bounds:92,13,86,658
+l3
+bounds:180,135,58,536

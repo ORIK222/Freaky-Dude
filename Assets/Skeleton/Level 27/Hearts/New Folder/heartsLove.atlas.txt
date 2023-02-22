@@ -1,0 +1,13 @@
+heartsLove.png
+size:512,512
+filter:Linear,Linear
+pma:true
+scale:0.5
+1
+bounds:2,2,293,277
+2
+bounds:297,125,154,142
+rotate:90
+3
+bounds:297,28,95,85
+rotate:90

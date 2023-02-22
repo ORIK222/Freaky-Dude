@@ -1,0 +1,6 @@
+wrench.png
+size:1116,938
+filter:Linear,Linear
+pma:true
+1
+bounds:2,2,1112,934

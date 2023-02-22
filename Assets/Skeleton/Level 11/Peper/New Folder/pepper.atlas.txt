@@ -1,0 +1,15 @@
+pepper.png
+size:2048,128
+filter:Linear,Linear
+pma:true
+scale:0.5
+p1
+bounds:2,2,374,107
+p2
+bounds:378,2,324,107
+p3
+bounds:704,2,249,107
+p4
+bounds:955,5,238,104
+p5
+bounds:1195,20,238,89

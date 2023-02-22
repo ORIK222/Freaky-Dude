@@ -1,0 +1,11 @@
+tree.png
+size:1254,793
+filter:Linear,Linear
+pma:true
+scale:0.5
+leafs3
+bounds:2,2,789,943
+rotate:90
+leafs4
+bounds:947,359,432,305
+rotate:90

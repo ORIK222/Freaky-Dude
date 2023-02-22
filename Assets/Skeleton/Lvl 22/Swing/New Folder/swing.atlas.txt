@@ -1,0 +1,9 @@
+swing.png
+size:1024,512
+filter:Linear,Linear
+pma:true
+scale:0.5
+line
+bounds:2,244,818,54
+main
+bounds:2,2,291,240

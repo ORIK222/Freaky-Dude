@@ -1,0 +1,12 @@
+wast.png
+size:660,818
+filter:Linear,Linear
+pma:true
+13
+bounds:273,2,385,302
+14
+bounds:2,61,755,269
+rotate:90
+15
+bounds:273,306,510,332
+rotate:90

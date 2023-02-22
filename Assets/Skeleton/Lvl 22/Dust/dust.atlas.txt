@@ -1,0 +1,15 @@
+dust.png
+size:2538,1048
+filter:Linear,Linear
+pma:true
+d1
+bounds:2,2,1311,1044
+d2
+bounds:1315,171,875,748
+rotate:90
+d3
+bounds:2065,411,635,471
+rotate:90
+d4
+bounds:2065,25,384,332
+rotate:90

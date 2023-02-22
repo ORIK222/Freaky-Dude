@@ -1,0 +1,13 @@
+buttons.png
+size:2024,130
+filter:Linear,Linear
+pma:true
+1
+bounds:211,17,27,1811
+rotate:90
+2
+bounds:2,2,126,207
+rotate:90
+3
+bounds:211,46,82,252
+rotate:90

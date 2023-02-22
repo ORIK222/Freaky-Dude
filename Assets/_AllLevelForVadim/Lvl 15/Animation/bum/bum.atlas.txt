@@ -1,0 +1,7 @@
+bum.png
+size:207,215
+filter:Linear,Linear
+pma:true
+scale:0.5
+bum
+bounds:2,2,203,211

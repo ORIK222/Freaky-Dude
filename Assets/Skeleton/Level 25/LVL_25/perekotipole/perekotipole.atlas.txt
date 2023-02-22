@@ -1,0 +1,7 @@
+perekotipole.png
+size:309,312
+filter:Linear,Linear
+pma:true
+scale:0.3
+perekotipole
+bounds:2,2,305,308

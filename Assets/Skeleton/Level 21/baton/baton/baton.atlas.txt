@@ -1,0 +1,7 @@
+baton.png
+size:159,578
+filter:Linear,Linear
+pma:true
+scale:0.4
+1
+bounds:2,2,155,574

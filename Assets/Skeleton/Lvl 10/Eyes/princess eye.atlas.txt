@@ -1,0 +1,18 @@
+princess eye.png
+size:158,109
+filter:Linear,Linear
+pma:true
+eyeL
+bounds:2,42,65,64
+rotate:90
+eyeR
+bounds:68,42,65,64
+rotate:90
+eyelishL
+bounds:2,2,70,38
+eyelishR
+bounds:74,2,70,38
+irisL
+bounds:134,85,22,22
+irisR
+bounds:134,61,22,22

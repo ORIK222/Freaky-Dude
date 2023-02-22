@@ -1,0 +1,7 @@
+cart.png
+size:128,128
+filter:Linear,Linear
+pma:true
+scale:0.5
+cart
+bounds:2,2,79,64

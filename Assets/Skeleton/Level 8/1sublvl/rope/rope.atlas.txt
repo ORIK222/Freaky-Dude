@@ -1,0 +1,7 @@
+rope.png
+size:65,568
+filter:Linear,Linear
+pma:true
+scale:0.1
+2
+bounds:2,2,61,564

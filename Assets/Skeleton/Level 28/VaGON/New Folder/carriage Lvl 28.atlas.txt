@@ -1,0 +1,25 @@
+carriage Lvl 28.png
+size:8192,1024
+filter:Linear,Linear
+pma:true
+scale:0.5
+0
+bounds:1882,262,1316,592
+1
+bounds:3200,2,2376,852
+d1
+bounds:1278,326,528,602
+rotate:90
+d2
+bounds:674,351,503,602
+rotate:90
+w1
+bounds:338,688,166,166
+w2
+bounds:506,688,166,166
+w3
+bounds:2,689,165,166
+rotate:90
+w4
+bounds:170,689,165,166
+rotate:90

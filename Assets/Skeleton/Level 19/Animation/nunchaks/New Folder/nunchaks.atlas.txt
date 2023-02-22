@@ -1,0 +1,11 @@
+nunchaks.png
+size:512,1024
+filter:Linear,Linear
+pma:true
+scale:0.5
+1
+bounds:215,2,194,620
+2
+bounds:2,13,211,609
+3
+bounds:2,624,363,162

@@ -1,0 +1,9 @@
+easel.png
+size:931,594
+filter:Linear,Linear
+pma:true
+scale:0.3
+1
+bounds:514,2,415,590
+2
+bounds:2,43,510,549

@@ -1,0 +1,6 @@
+to be continued.png
+size:512,256
+filter:Linear,Linear
+pma:true
+to-be-continued
+bounds:2,2,323,154

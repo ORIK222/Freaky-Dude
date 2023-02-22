@@ -1,0 +1,6 @@
+ball.png
+size:706,696
+filter:Linear,Linear
+pma:true
+1
+bounds:2,2,702,692

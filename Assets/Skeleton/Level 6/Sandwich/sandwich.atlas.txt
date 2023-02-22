@@ -1,0 +1,16 @@
+sandwich.png
+size:2880,1146
+filter:Linear,Linear
+pma:true
+1
+bounds:2,574,1444,570
+2
+bounds:1448,574,1185,570
+3
+bounds:2,2,971,570
+4
+bounds:2151,5,607,567
+5
+bounds:2635,733,243,411
+6
+bounds:975,180,1174,392

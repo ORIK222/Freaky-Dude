@@ -1,0 +1,15 @@
+beach.png
+size:1024,256
+filter:Linear,Linear
+pma:true
+scale:0.5
+beach
+bounds:461,3,456,235
+layers1
+bounds:919,80,66,46
+rotate:90
+layers2
+bounds:919,148,90,61
+rotate:90
+layers3
+bounds:2,2,457,236

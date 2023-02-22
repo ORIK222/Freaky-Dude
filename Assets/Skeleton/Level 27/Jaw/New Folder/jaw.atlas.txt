@@ -1,0 +1,7 @@
+jaw.png
+size:512,256
+filter:Linear,Linear
+pma:true
+scale:0.5
+jaw
+bounds:2,2,377,249

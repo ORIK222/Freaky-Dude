@@ -1,0 +1,14 @@
+candles.png
+size:627,382
+filter:Linear,Linear
+pma:true
+scale:0.3
+fire1
+bounds:594,308,31,72
+fire2
+bounds:594,308,31,72
+fire3
+bounds:594,308,31,72
+light 3
+bounds:2,2,378,590
+rotate:90

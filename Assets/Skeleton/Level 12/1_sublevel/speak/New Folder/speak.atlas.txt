@@ -1,0 +1,14 @@
+speak.png
+size:2048,512
+filter:Linear,Linear
+pma:true
+scale:0.5
+2
+bounds:982,2,302,377
+rotate:90
+3
+bounds:544,62,436,242
+offsets:0,1,437,244
+4
+bounds:2,37,540,267
+offsets:0,2,540,269

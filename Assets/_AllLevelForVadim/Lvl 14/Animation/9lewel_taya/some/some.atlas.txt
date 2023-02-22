@@ -1,0 +1,13 @@
+some.png
+size:1186,522
+filter:Linear,Linear
+pma:true
+scale:0.4
+m
+bounds:2,2,962,518
+pup
+bounds:1120,185,335,64
+rotate:90
+yey
+bounds:966,45,475,152
+rotate:90

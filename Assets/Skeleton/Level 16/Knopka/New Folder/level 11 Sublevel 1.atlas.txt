@@ -1,0 +1,9 @@
+level 11 Sublevel 1.png
+size:512,512
+filter:Linear,Linear
+pma:true
+scale:0.5
+control panel
+bounds:2,2,326,313
+control panel 2
+bounds:330,143,19,172

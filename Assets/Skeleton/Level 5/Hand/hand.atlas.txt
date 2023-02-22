@@ -1,0 +1,11 @@
+hand.png
+size:1024,256
+filter:Linear,Linear
+pma:true
+scale:0.5
+hand1
+bounds:2,182,587,66
+hand2
+bounds:2,2,374,178
+hand3
+bounds:378,42,134,138

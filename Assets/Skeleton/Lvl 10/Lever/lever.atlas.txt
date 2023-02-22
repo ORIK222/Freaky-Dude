@@ -1,0 +1,8 @@
+lever.png
+size:3993,3115
+filter:Linear,Linear
+pma:true
+1
+bounds:2,173,2773,2940
+2
+bounds:2777,2,1214,3111

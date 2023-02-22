@@ -1,0 +1,20 @@
+Polar bear.png
+size:512,1024
+filter:Linear,Linear
+pma:true
+scale:0.5
+0
+bounds:2,2,387,396
+rotate:90
+Left hand
+bounds:187,597,145,88
+brow R
+bounds:41,673,46,12
+close
+bounds:138,665,47,20
+eye L
+bounds:2,391,226,204
+eyelash  Up L
+bounds:89,673,47,12
+pupils
+bounds:2,676,37,9

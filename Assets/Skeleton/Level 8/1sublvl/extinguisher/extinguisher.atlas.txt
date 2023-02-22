@@ -1,0 +1,16 @@
+extinguisher.png
+size:1014,1992
+filter:Linear,Linear
+pma:true
+2
+bounds:608,2,1141,404
+rotate:90
+3
+bounds:2,130,604,1402
+foam1
+bounds:609,1145,486,341
+rotate:90
+foam2
+bounds:609,1633,402,357
+foam3
+bounds:2,1534,605,456

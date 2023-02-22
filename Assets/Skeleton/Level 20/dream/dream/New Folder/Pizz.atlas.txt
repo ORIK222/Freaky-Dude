@@ -1,0 +1,15 @@
+Pizz.png
+size:1024,512
+filter:Linear,Linear
+pma:true
+scale:0.5
+layers1
+bounds:847,54,98,66
+rotate:90
+layers2
+bounds:710,62,135,90
+layers3
+bounds:2,2,706,362
+thoughts
+bounds:710,154,191,210
+offsets:328,486,1000,1000

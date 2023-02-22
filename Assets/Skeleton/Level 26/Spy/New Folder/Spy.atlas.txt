@@ -1,0 +1,12 @@
+Spy.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+scale:0.5
+1
+bounds:2,96,788,893
+offsets:0,0,788,898
+2
+bounds:2,2,185,92
+eye L 2
+bounds:189,36,122,58

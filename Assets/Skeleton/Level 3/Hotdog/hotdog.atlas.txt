@@ -1,0 +1,7 @@
+hotdog.png
+size:876,363
+filter:Linear,Linear
+pma:true
+scale:0.5
+layers6
+bounds:2,2,872,359
